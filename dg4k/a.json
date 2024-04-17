@@ -1,6 +1,6 @@
 
   {
-  "spider": "./api.jar;md5;1b8a4519060aa9c23755fddaaf63bb9b",
+  "spider": "https://cdn.jsdelivr.net/gh/357546/tv@main/dg4k/api.jar;md5;1b8a4519060aa9c23755fddaaf63bb9b",
   "wallpaper": "https://bing.img.run/rand.php",
   "sites": [
 
