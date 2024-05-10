@@ -1,3 +1,23 @@
+测试港台,#genre#
+TVB亚洲武侠,http://v2h.jdshipin.com/asia_action/asia_action.stream/chunklist.m3u8
+TVB星河,http://v2h.jdshipin.com/xinghe/xinghe.stream/chunklist.m3u8
+凤凰卫视,http://112.19.171.156:9999/udp/239.93.0.162:2192
+寰宇新聞,http://lv.taoiptv.com/live.m3u8?c=1
+三立新聞,http://lv.taoiptv.com/live.m3u8?c=2
+中視新聞,http://lv.taoiptv.com/live.m3u8?c=3
+中天新聞1,http://lv.taoiptv.com/live.m3u8?c=4
+中天新聞2,http://lv.taoiptv.com/live.m3u8?c=5
+東森新聞,http://lv.taoiptv.com/live.m3u8?c=6
+公視新聞,http://lv.taoiptv.com/live.m3u8?c=7
+台視新聞,http://lv.taoiptv.com/live.m3u8?c=8
+三立iNEWS,http://lv.taoiptv.com/live.m3u8?c=9
+TVBS NEWS,http://lv.taoiptv.com/live.m3u8?c=10
+心灵治愈,http://lv.taoiptv.com/live.m3u8?c=11
+美丽动物,http://lv.taoiptv.com/live.m3u8?c=12
+美丽城市,http://lv.taoiptv.com/live.m3u8?c=13
+飞越天堂,http://lv.taoiptv.com/live.m3u8?c=14
+東京歌舞,http://lv.taoiptv.com/live.m3u8?c=15
+
 央视频道,#genre#
 CCTV1,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226016/index.m3u8$可回放
 CCTV2,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225588/index.m3u8$可回放
